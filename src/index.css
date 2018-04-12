@@ -1,0 +1,98 @@
+.searchBoxConatiner {
+  padding: 20px;
+  
+}
+.searchBtn {
+  margin: 0 auto;
+  margin-right: 20px;
+  width: 25%;
+}
+.buttonContainer {
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+.userIcon {
+  width: 100px;
+  border-radius: 360px;
+  margin-right: 20px;
+}
+
+.userCard {
+  margin-bottom: 10px;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: white;
+}
+.usersContainer {
+  padding: 20px;
+}
+.userCard:hover {
+  cursor: pointer;
+}
+.profileInfo {
+  font-size: 25px;
+  text-align: center;
+}
+.profileImg {
+  width: 200px;
+  border-radius: 360px;
+  text-align: center;
+}
+.profleImgContainer {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.repoContainer {
+  padding: 20px;
+  border: 1px solid black !important;
+  margin-bottom: 20px;
+  background-color: white;
+  border-radius: 15px;
+  border: 0px;
+}
+.repo {
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.repo:hover {
+  cursor: pointer;
+}
+.profileContainer {
+  padding: 20px;
+}
+.repositoryContainer {
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+.repositoryName {
+  font-weight: bold;
+  font-size: 35px;
+}
+.repositoryDesc {
+  font-weight: bold;
+  font-size: 25px;
+}
+.left {
+  float: left;
+  position: relative;
+  left: 0px;
+  margin-right: -50px;
+}
+.userName {
+  font-size: 25px;
+  font-weight: bold;
+}
+.icon {
+  margin-left: 5px;
+}
+.icon-large {
+  margin-right: 15px;
+  font-size: 35px;
+}
